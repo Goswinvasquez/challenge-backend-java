@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Maven/Spring Boot
+target/
+*.jar
+*.war
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
